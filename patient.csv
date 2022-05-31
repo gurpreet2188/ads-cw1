@@ -1,0 +1,952 @@
+pid,did,tid,contact,address
+p1,d3,t1,8940 5717,HDB-Jalan Kayu/Seletar 4 Seletar Road #01-97
+p2,d46,t4,8950 6271,BLK 177 BUKIT BATOK WEST AVENUE 8 #01-249
+p3,d21,t2,8908 0395,Jurong Point 1 Jurong West Central 2 #01-26f
+p4,d12,t6,8034 4084,10 HOE CHIANG ROAD 16-02
+p5,d5,t2,8542 9460,1B Tanglin Hill
+p6,d20,t8,8952 4681,36 Newton Rd #02-01 Hotel Royal S
+p7,d32,t5,8051 6922,2 Penjuru Close
+p8,d7,t5,9792 0973,1B Tanglin Hill
+p9,d38,t3,9266 6478,1B Tanglin Hill
+p10,d2,t5,8024 9801,1B Tanglin Hill
+p11,d19,t2,8952 1828,2 Penjuru Close
+p12,d20,t7,8951 1135,12 New Industrial Road 06-03
+p13,d5,t5,8952 8411,Jurong Point 1 Jurong West Central 2 #01-26f
+p14,d15,t5,8051 5978,333A Orchard Road #01-18 Mandarin Gallery
+p15,d38,t4,8051 0003,1 North Bridge Road #06-31 High Street Centre
+p16,d13,t6,8951 3152,2 Penjuru Close
+p17,d6,t8,9527 4778,221 Boon Lay Place #01-198 Boon Lay Shopping Centre
+p18,d10,t6,8950 6220,Northstar@AMK 7030 Ang Mo Kio Ave 5 #09-22
+p19,d21,t3,9625 8780,2 Penjuru Close
+p20,d7,t7,8952 2169,333A Orchard Road #01-18 Mandarin Gallery
+p21,d14,t8,8399 6634,1B Tanglin Hill
+p22,d24,t1,8051 3935,183B Thomson Road Goldhill Centre
+p23,d18,t5,9843 0128,1 North Bridge Road #06-31 High Street Centre
+p24,d35,t5,8045 2502,221 Boon Lay Place #01-198 Boon Lay Shopping Centre
+p25,d49,t1,8010 4700,1 North Bridge Road #06-31 High Street Centre
+p26,d33,t1,9506 9394,183B Thomson Road Goldhill Centre
+p27,d7,t2,8912 3133,10 HOE CHIANG ROAD 16-02
+p28,d44,t4,9634 6451,Jurong Point 1 Jurong West Central 2 #01-26f
+p29,d7,t1,8951 3963,HDB-Jalan Kayu/Seletar 4 Seletar Road #01-97
+p30,d5,t7,8051 8589,Jurong Point 1 Jurong West Central 2 #01-26f
+p31,d23,t7,8039 5049,BLK 177 BUKIT BATOK WEST AVENUE 8 #01-249
+p32,d49,t1,8951 3322,2 Penjuru Close
+p33,d27,t6,8950 6032,802 Bukit Batok West Avenue 5 01-01 Bukit
+p34,d1,t2,8951 3797,10 HOE CHIANG ROAD 16-02
+p35,d32,t5,8950 0630,Northstar@AMK 7030 Ang Mo Kio Ave 5 #09-22
+p36,d18,t3,9600 6630,BLK 5 TANJONG PAGAR PLAZA #01-08
+p37,d49,t3,9220 8812,42A NORTH CANAL ROAD
+p38,d45,t2,8051 5043,802 Bukit Batok West Avenue 5 01-01 Bukit
+p39,d11,t7,8952 2113,194 PANDAN LOOP #06-07
+p40,d9,t1,9754 6630,221 Boon Lay Place #01-198 Boon Lay Shopping Centre
+p41,d11,t1,9787 7607,36 Newton Rd #02-01 Hotel Royal S
+p42,d23,t8,8952 6625,1 North Bridge Road #06-31 High Street Centre
+p43,d48,t8,9353 8432,159B Kitchener Road
+p44,d10,t3,8918 2118,802 Bukit Batok West Avenue 5 01-01 Bukit
+p45,d5,t3,8952 0889,42A NORTH CANAL ROAD
+p46,d26,t8,8951 7982,194 PANDAN LOOP #06-07
+p47,d31,t7,8051 1510,802 Bukit Batok West Avenue 5 01-01 Bukit
+p48,d33,t6,8465 7158,BLK 177 BUKIT BATOK WEST AVENUE 8 #01-249
+p49,d22,t7,8051 2628,36 Newton Rd #02-01 Hotel Royal S
+p50,d13,t5,8952 1160,2 Penjuru Close
+p51,d44,t2,9164 9974,BLK 5 TANJONG PAGAR PLAZA #01-08
+p52,d4,t1,8951 3167,Jurong Point 1 Jurong West Central 2 #01-26f
+p53,d24,t4,8950 6116,194 PANDAN LOOP #06-07
+p54,d23,t4,8051 2415,278 Bukit Batok East Avenue 3 01-353
+p55,d15,t2,8051 1495,BLK 177 BUKIT BATOK WEST AVENUE 8 #01-249
+p56,d34,t1,8034 8972,1B Tanglin Hill
+p57,d25,t1,9467 9300,42A NORTH CANAL ROAD
+p58,d12,t7,9304 3522,BLK 5 TANJONG PAGAR PLAZA #01-08
+p59,d13,t7,8930 6417,36 Newton Rd #02-01 Hotel Royal S
+p60,d11,t5,8026 0885,1 North Bridge Road #06-31 High Street Centre
+p61,d28,t4,8952 7665,BLK 5 TANJONG PAGAR PLAZA #01-08
+p62,d16,t5,8051 0193,221 Boon Lay Place #01-198 Boon Lay Shopping Centre
+p63,d49,t6,8939 9521,159B Kitchener Road
+p64,d24,t5,8051 3762,1 North Bridge Road #06-31 High Street Centre
+p65,d17,t4,8952 4659,2 Penjuru Close
+p66,d11,t6,9583 0063,42A NORTH CANAL ROAD
+p67,d25,t6,8480 6613,183B Thomson Road Goldhill Centre
+p68,d4,t3,8638 8887,42A NORTH CANAL ROAD
+p69,d19,t3,8951 3493,BLK 177 BUKIT BATOK WEST AVENUE 8 #01-249
+p70,d50,t7,8952 5671,36 Newton Rd #02-01 Hotel Royal S
+p71,d30,t3,9013 3362,12 New Industrial Road 06-03
+p72,d42,t2,8587 2810,333A Orchard Road #01-18 Mandarin Gallery
+p73,d30,t3,8950 4373,36 Newton Rd #02-01 Hotel Royal S
+p74,d20,t6,8051 7648,1 North Bridge Road #06-31 High Street Centre
+p75,d11,t6,9705 5053,183B Thomson Road Goldhill Centre
+p76,d15,t2,8951 8798,38 C/38 D JALAN PEMIMPIN
+p77,d31,t2,8952 8173,10 HOE CHIANG ROAD 16-02
+p78,d47,t3,8950 2466,1B Tanglin Hill
+p79,d3,t4,9391 7251,10 HOE CHIANG ROAD 16-02
+p80,d32,t5,8498 7635,36 Newton Rd #02-01 Hotel Royal S
+p81,d27,t3,8951 6366,36 Newton Rd #02-01 Hotel Royal S
+p82,d7,t1,8928 1525,Jurong Point 1 Jurong West Central 2 #01-26f
+p83,d1,t1,9664 5780,802 Bukit Batok West Avenue 5 01-01 Bukit
+p84,d29,t3,8952 4189,38 C/38 D JALAN PEMIMPIN
+p85,d9,t3,8051 2232,36 Newton Rd #02-01 Hotel Royal S
+p86,d24,t6,9032 3085,Jurong Point 1 Jurong West Central 2 #01-26f
+p87,d17,t4,8950 7438,159B Kitchener Road
+p88,d13,t1,9609 7644,BLK 177 BUKIT BATOK WEST AVENUE 8 #01-249
+p89,d1,t6,8051 9018,221 Boon Lay Place #01-198 Boon Lay Shopping Centre
+p90,d43,t4,8952 5137,278 Bukit Batok East Avenue 3 01-353
+p91,d49,t2,9401 0846,194 PANDAN LOOP #06-07
+p92,d47,t4,8944 3040,333A Orchard Road #01-18 Mandarin Gallery
+p93,d37,t6,8950 2085,HDB-Jalan Kayu/Seletar 4 Seletar Road #01-97
+p94,d22,t4,8051 8989,12 New Industrial Road 06-03
+p95,d30,t5,8952 3542,12 New Industrial Road 06-03
+p96,d4,t3,9825 6142,36 Newton Rd #02-01 Hotel Royal S
+p97,d20,t6,9245 2032,Northstar@AMK 7030 Ang Mo Kio Ave 5 #09-22
+p98,d2,t5,8951 6695,HDB-Jalan Kayu/Seletar 4 Seletar Road #01-97
+p99,d23,t7,8051 9097,BLK 5 TANJONG PAGAR PLAZA #01-08
+p100,d35,t1,9517 6714,BLK 5 TANJONG PAGAR PLAZA #01-08
+p101,d32,t4,9703 6863,42A NORTH CANAL ROAD
+p102,d16,t1,9088 1062,183B Thomson Road Goldhill Centre
+p103,d25,t7,9343 5197,HDB-Jalan Kayu/Seletar 4 Seletar Road #01-97
+p104,d44,t8,9729 8144,10 HOE CHIANG ROAD 16-02
+p105,d42,t3,9571 3435,42A NORTH CANAL ROAD
+p106,d32,t2,8952 9139,HDB-Jalan Kayu/Seletar 4 Seletar Road #01-97
+p107,d30,t8,8108 7927,36 Newton Rd #02-01 Hotel Royal S
+p108,d4,t2,8051 5664,278 Bukit Batok East Avenue 3 01-353
+p109,d35,t4,9828 2305,1 North Bridge Road #06-31 High Street Centre
+p110,d19,t8,9843 7010,36 Newton Rd #02-01 Hotel Royal S
+p111,d48,t7,9307 1707,278 Bukit Batok East Avenue 3 01-353
+p112,d3,t8,8228 9362,802 Bukit Batok West Avenue 5 01-01 Bukit
+p113,d27,t1,9597 8214,333A Orchard Road #01-18 Mandarin Gallery
+p114,d46,t6,9635 1752,BLK 5 TANJONG PAGAR PLAZA #01-08
+p115,d2,t7,8950 4250,2 Penjuru Close
+p116,d37,t3,8951 8878,Northstar@AMK 7030 Ang Mo Kio Ave 5 #09-22
+p117,d42,t7,8051 3032,Jurong Point 1 Jurong West Central 2 #01-26f
+p118,d33,t5,9135 8219,2 Penjuru Close
+p119,d41,t7,8951 2773,42A NORTH CANAL ROAD
+p120,d14,t3,9187 4530,333A Orchard Road #01-18 Mandarin Gallery
+p121,d23,t7,9405 6705,36 Newton Rd #02-01 Hotel Royal S
+p122,d8,t5,9864 5056,BLK 177 BUKIT BATOK WEST AVENUE 8 #01-249
+p123,d49,t3,9664 3879,802 Bukit Batok West Avenue 5 01-01 Bukit
+p124,d29,t2,8908 2014,333A Orchard Road #01-18 Mandarin Gallery
+p125,d1,t3,9013 9026,10 HOE CHIANG ROAD 16-02
+p126,d14,t2,9352 4868,802 Bukit Batok West Avenue 5 01-01 Bukit
+p127,d20,t4,9833 7102,183B Thomson Road Goldhill Centre
+p128,d11,t6,8951 0969,183B Thomson Road Goldhill Centre
+p129,d46,t6,9267 1667,BLK 177 BUKIT BATOK WEST AVENUE 8 #01-249
+p130,d49,t4,8416 4738,10 HOE CHIANG ROAD 16-02
+p131,d5,t1,8951 2886,1 North Bridge Road #06-31 High Street Centre
+p132,d20,t2,9856 4582,42A NORTH CANAL ROAD
+p133,d41,t8,9457 7597,194 PANDAN LOOP #06-07
+p134,d43,t1,8051 0519,BLK 177 BUKIT BATOK WEST AVENUE 8 #01-249
+p135,d14,t4,8951 8487,Northstar@AMK 7030 Ang Mo Kio Ave 5 #09-22
+p136,d22,t2,9717 0296,10 HOE CHIANG ROAD 16-02
+p137,d25,t5,9523 7365,BLK 177 BUKIT BATOK WEST AVENUE 8 #01-249
+p138,d45,t6,8952 0596,BLK 5 TANJONG PAGAR PLAZA #01-08
+p139,d26,t7,8928 0290,221 Boon Lay Place #01-198 Boon Lay Shopping Centre
+p140,d18,t4,8950 5174,HDB-Jalan Kayu/Seletar 4 Seletar Road #01-97
+p141,d15,t4,8951 1804,10 HOE CHIANG ROAD 16-02
+p142,d22,t6,8019 7375,183B Thomson Road Goldhill Centre
+p143,d10,t8,9770 6209,159B Kitchener Road
+p144,d6,t7,9612 6208,2 Penjuru Close
+p145,d49,t6,8951 8165,BLK 177 BUKIT BATOK WEST AVENUE 8 #01-249
+p146,d21,t5,8952 9727,159B Kitchener Road
+p147,d37,t3,8952 5627,221 Boon Lay Place #01-198 Boon Lay Shopping Centre
+p148,d5,t6,8952 0158,Northstar@AMK 7030 Ang Mo Kio Ave 5 #09-22
+p149,d37,t2,8951 4014,BLK 177 BUKIT BATOK WEST AVENUE 8 #01-249
+p150,d41,t1,9188 1495,10 HOE CHIANG ROAD 16-02
+p151,d3,t3,9578 1857,159B Kitchener Road
+p152,d27,t1,8051 5526,HDB-Jalan Kayu/Seletar 4 Seletar Road #01-97
+p153,d38,t2,8951 4019,183B Thomson Road Goldhill Centre
+p154,d37,t7,8051 4979,333A Orchard Road #01-18 Mandarin Gallery
+p155,d2,t7,8051 5422,12 New Industrial Road 06-03
+p156,d11,t2,8051 7920,278 Bukit Batok East Avenue 3 01-353
+p157,d14,t6,9179 4245,194 PANDAN LOOP #06-07
+p158,d32,t5,8122 3275,183B Thomson Road Goldhill Centre
+p159,d1,t1,8950 9580,38 C/38 D JALAN PEMIMPIN
+p160,d36,t4,8951 7712,183B Thomson Road Goldhill Centre
+p161,d26,t6,8951 6518,38 C/38 D JALAN PEMIMPIN
+p162,d31,t1,9228 5779,1B Tanglin Hill
+p163,d37,t6,9630 8258,194 PANDAN LOOP #06-07
+p164,d27,t7,9400 7704,1 North Bridge Road #06-31 High Street Centre
+p165,d44,t2,8950 2373,36 Newton Rd #02-01 Hotel Royal S
+p166,d8,t8,8051 6342,221 Boon Lay Place #01-198 Boon Lay Shopping Centre
+p167,d9,t3,8945 3789,183B Thomson Road Goldhill Centre
+p168,d34,t1,9725 7827,278 Bukit Batok East Avenue 3 01-353
+p169,d10,t2,8051 8535,221 Boon Lay Place #01-198 Boon Lay Shopping Centre
+p170,d40,t4,8051 7478,333A Orchard Road #01-18 Mandarin Gallery
+p171,d36,t4,9803 1499,Jurong Point 1 Jurong West Central 2 #01-26f
+p172,d38,t2,8015 7262,221 Boon Lay Place #01-198 Boon Lay Shopping Centre
+p173,d25,t6,9838 8623,Jurong Point 1 Jurong West Central 2 #01-26f
+p174,d27,t8,8472 4967,12 New Industrial Road 06-03
+p175,d44,t8,9831 7383,Jurong Point 1 Jurong West Central 2 #01-26f
+p176,d14,t5,8952 1620,159B Kitchener Road
+p177,d23,t2,9317 4952,36 Newton Rd #02-01 Hotel Royal S
+p178,d37,t4,8952 7609,333A Orchard Road #01-18 Mandarin Gallery
+p179,d20,t5,8952 4023,2 Penjuru Close
+p180,d11,t4,8022 6486,2 Penjuru Close
+p181,d42,t1,8051 8393,BLK 5 TANJONG PAGAR PLAZA #01-08
+p182,d47,t2,8952 1647,Jurong Point 1 Jurong West Central 2 #01-26f
+p183,d47,t4,8051 9892,802 Bukit Batok West Avenue 5 01-01 Bukit
+p184,d1,t6,9733 6020,159B Kitchener Road
+p185,d27,t7,8027 0754,1 North Bridge Road #06-31 High Street Centre
+p186,d8,t4,8051 1858,183B Thomson Road Goldhill Centre
+p187,d24,t7,9811 2256,159B Kitchener Road
+p188,d29,t4,8951 3448,42A NORTH CANAL ROAD
+p189,d37,t7,8951 4197,221 Boon Lay Place #01-198 Boon Lay Shopping Centre
+p190,d37,t3,9383 2526,BLK 177 BUKIT BATOK WEST AVENUE 8 #01-249
+p191,d41,t1,8049 9620,12 New Industrial Road 06-03
+p192,d50,t1,8051 8903,1 North Bridge Road #06-31 High Street Centre
+p193,d49,t8,8935 3782,333A Orchard Road #01-18 Mandarin Gallery
+p194,d42,t7,9723 5947,38 C/38 D JALAN PEMIMPIN
+p195,d21,t8,8633 7302,HDB-Jalan Kayu/Seletar 4 Seletar Road #01-97
+p196,d6,t6,8950 7387,BLK 177 BUKIT BATOK WEST AVENUE 8 #01-249
+p197,d3,t3,9676 5098,36 Newton Rd #02-01 Hotel Royal S
+p198,d17,t5,9702 4934,42A NORTH CANAL ROAD
+p199,d36,t8,8951 2786,HDB-Jalan Kayu/Seletar 4 Seletar Road #01-97
+p200,d33,t7,8902 3889,42A NORTH CANAL ROAD
+p201,d48,t6,8051 0488,10 HOE CHIANG ROAD 16-02
+p202,d25,t4,8952 7412,Jurong Point 1 Jurong West Central 2 #01-26f
+p203,d36,t5,9251 8709,333A Orchard Road #01-18 Mandarin Gallery
+p204,d21,t3,8051 4256,802 Bukit Batok West Avenue 5 01-01 Bukit
+p205,d49,t8,9892 5732,1B Tanglin Hill
+p206,d32,t4,8952 2476,36 Newton Rd #02-01 Hotel Royal S
+p207,d42,t6,8025 8113,Jurong Point 1 Jurong West Central 2 #01-26f
+p208,d18,t5,8039 2172,159B Kitchener Road
+p209,d26,t4,8041 7289,Northstar@AMK 7030 Ang Mo Kio Ave 5 #09-22
+p210,d39,t6,9136 1841,194 PANDAN LOOP #06-07
+p211,d22,t8,8952 3725,183B Thomson Road Goldhill Centre
+p212,d37,t3,8950 2845,HDB-Jalan Kayu/Seletar 4 Seletar Road #01-97
+p213,d14,t7,8950 6558,183B Thomson Road Goldhill Centre
+p214,d12,t5,8029 5336,10 HOE CHIANG ROAD 16-02
+p215,d3,t5,8951 5917,BLK 177 BUKIT BATOK WEST AVENUE 8 #01-249
+p216,d37,t7,9603 3415,333A Orchard Road #01-18 Mandarin Gallery
+p217,d42,t4,8951 7034,BLK 177 BUKIT BATOK WEST AVENUE 8 #01-249
+p218,d23,t8,8051 3327,10 HOE CHIANG ROAD 16-02
+p219,d15,t7,9864 8651,Northstar@AMK 7030 Ang Mo Kio Ave 5 #09-22
+p220,d36,t3,8036 3123,Northstar@AMK 7030 Ang Mo Kio Ave 5 #09-22
+p221,d24,t1,8951 3258,Jurong Point 1 Jurong West Central 2 #01-26f
+p222,d43,t5,8051 8748,2 Penjuru Close
+p223,d44,t4,8950 7152,BLK 5 TANJONG PAGAR PLAZA #01-08
+p224,d14,t1,9634 0046,221 Boon Lay Place #01-198 Boon Lay Shopping Centre
+p225,d12,t5,8051 3748,Jurong Point 1 Jurong West Central 2 #01-26f
+p226,d40,t6,8051 9610,221 Boon Lay Place #01-198 Boon Lay Shopping Centre
+p227,d13,t4,8033 8841,278 Bukit Batok East Avenue 3 01-353
+p228,d21,t5,8951 6516,BLK 177 BUKIT BATOK WEST AVENUE 8 #01-249
+p229,d42,t2,8925 6487,278 Bukit Batok East Avenue 3 01-353
+p230,d50,t4,8952 5730,42A NORTH CANAL ROAD
+p231,d29,t2,8951 6348,HDB-Jalan Kayu/Seletar 4 Seletar Road #01-97
+p232,d15,t3,8051 7104,1 North Bridge Road #06-31 High Street Centre
+p233,d22,t5,9722 5224,802 Bukit Batok West Avenue 5 01-01 Bukit
+p234,d8,t2,9110 3754,Northstar@AMK 7030 Ang Mo Kio Ave 5 #09-22
+p235,d21,t4,8051 4691,2 Penjuru Close
+p236,d18,t7,8950 3240,Northstar@AMK 7030 Ang Mo Kio Ave 5 #09-22
+p237,d33,t4,8951 7336,221 Boon Lay Place #01-198 Boon Lay Shopping Centre
+p238,d25,t3,9407 8926,BLK 5 TANJONG PAGAR PLAZA #01-08
+p239,d35,t3,8031 0413,333A Orchard Road #01-18 Mandarin Gallery
+p240,d11,t6,8951 1138,38 C/38 D JALAN PEMIMPIN
+p241,d42,t4,9611 6860,221 Boon Lay Place #01-198 Boon Lay Shopping Centre
+p242,d21,t5,8051 7073,42A NORTH CANAL ROAD
+p243,d14,t3,9234 8635,36 Newton Rd #02-01 Hotel Royal S
+p244,d3,t6,8051 9938,802 Bukit Batok West Avenue 5 01-01 Bukit
+p245,d14,t6,8950 0370,HDB-Jalan Kayu/Seletar 4 Seletar Road #01-97
+p246,d2,t5,8051 2516,183B Thomson Road Goldhill Centre
+p247,d20,t7,8950 1536,12 New Industrial Road 06-03
+p248,d9,t5,9588 3503,221 Boon Lay Place #01-198 Boon Lay Shopping Centre
+p249,d5,t6,8951 9492,12 New Industrial Road 06-03
+p250,d41,t7,8275 8779,159B Kitchener Road
+p251,d44,t7,8915 2910,42A NORTH CANAL ROAD
+p252,d21,t7,8609 8583,12 New Industrial Road 06-03
+p253,d12,t2,9110 3844,36 Newton Rd #02-01 Hotel Royal S
+p254,d3,t2,8952 7211,HDB-Jalan Kayu/Seletar 4 Seletar Road #01-97
+p255,d30,t1,8051 4737,183B Thomson Road Goldhill Centre
+p256,d26,t2,9689 2832,12 New Industrial Road 06-03
+p257,d40,t7,9324 2169,12 New Industrial Road 06-03
+p258,d47,t4,8472 1275,Jurong Point 1 Jurong West Central 2 #01-26f
+p259,d16,t6,9096 9789,1B Tanglin Hill
+p260,d1,t7,9581 2208,BLK 5 TANJONG PAGAR PLAZA #01-08
+p261,d10,t2,8938 1707,36 Newton Rd #02-01 Hotel Royal S
+p262,d4,t6,8951 2708,10 HOE CHIANG ROAD 16-02
+p263,d30,t6,8952 2895,36 Newton Rd #02-01 Hotel Royal S
+p264,d19,t4,9633 9240,194 PANDAN LOOP #06-07
+p265,d38,t2,8952 8687,802 Bukit Batok West Avenue 5 01-01 Bukit
+p266,d2,t8,8951 9598,333A Orchard Road #01-18 Mandarin Gallery
+p267,d31,t4,8027 2441,159B Kitchener Road
+p268,d6,t7,8051 4213,802 Bukit Batok West Avenue 5 01-01 Bukit
+p269,d47,t2,8939 0086,Northstar@AMK 7030 Ang Mo Kio Ave 5 #09-22
+p270,d12,t3,8952 8488,BLK 177 BUKIT BATOK WEST AVENUE 8 #01-249
+p271,d50,t4,8921 9082,183B Thomson Road Goldhill Centre
+p272,d21,t5,8952 8368,38 C/38 D JALAN PEMIMPIN
+p273,d31,t1,8951 4863,333A Orchard Road #01-18 Mandarin Gallery
+p274,d4,t6,8952 3105,42A NORTH CANAL ROAD
+p275,d5,t5,8951 5345,183B Thomson Road Goldhill Centre
+p276,d10,t3,8951 1914,802 Bukit Batok West Avenue 5 01-01 Bukit
+p277,d1,t8,8013 2720,2 Penjuru Close
+p278,d13,t6,9709 0508,802 Bukit Batok West Avenue 5 01-01 Bukit
+p279,d25,t5,9345 2790,42A NORTH CANAL ROAD
+p280,d47,t3,9488 0947,183B Thomson Road Goldhill Centre
+p281,d6,t7,8950 2265,HDB-Jalan Kayu/Seletar 4 Seletar Road #01-97
+p282,d48,t1,8018 8220,221 Boon Lay Place #01-198 Boon Lay Shopping Centre
+p283,d10,t4,9448 5345,221 Boon Lay Place #01-198 Boon Lay Shopping Centre
+p284,d17,t6,9536 6034,278 Bukit Batok East Avenue 3 01-353
+p285,d41,t8,9774 2495,BLK 5 TANJONG PAGAR PLAZA #01-08
+p286,d39,t6,8950 7332,333A Orchard Road #01-18 Mandarin Gallery
+p287,d28,t3,9248 5625,38 C/38 D JALAN PEMIMPIN
+p288,d49,t4,8051 0797,10 HOE CHIANG ROAD 16-02
+p289,d30,t2,8051 8085,42A NORTH CANAL ROAD
+p290,d41,t5,8048 8721,183B Thomson Road Goldhill Centre
+p291,d2,t3,8941 7089,278 Bukit Batok East Avenue 3 01-353
+p292,d5,t6,8951 7485,802 Bukit Batok West Avenue 5 01-01 Bukit
+p293,d9,t2,8051 0370,183B Thomson Road Goldhill Centre
+p294,d6,t7,8731 8893,183B Thomson Road Goldhill Centre
+p295,d35,t7,9707 1925,BLK 177 BUKIT BATOK WEST AVENUE 8 #01-249
+p296,d35,t6,8952 3087,Northstar@AMK 7030 Ang Mo Kio Ave 5 #09-22
+p297,d38,t7,8051 6002,BLK 5 TANJONG PAGAR PLAZA #01-08
+p298,d15,t7,8951 3949,36 Newton Rd #02-01 Hotel Royal S
+p299,d11,t3,8744 3406,802 Bukit Batok West Avenue 5 01-01 Bukit
+p300,d40,t8,8950 9636,10 HOE CHIANG ROAD 16-02
+p301,d40,t4,8340 6259,194 PANDAN LOOP #06-07
+p302,d8,t2,8950 7235,12 New Industrial Road 06-03
+p303,d15,t7,8051 7926,333A Orchard Road #01-18 Mandarin Gallery
+p304,d25,t1,8951 4073,802 Bukit Batok West Avenue 5 01-01 Bukit
+p305,d19,t8,9584 8869,Jurong Point 1 Jurong West Central 2 #01-26f
+p306,d18,t6,8952 2538,HDB-Jalan Kayu/Seletar 4 Seletar Road #01-97
+p307,d6,t2,8044 5894,Northstar@AMK 7030 Ang Mo Kio Ave 5 #09-22
+p308,d8,t8,8951 3003,1B Tanglin Hill
+p309,d28,t6,8051 1291,183B Thomson Road Goldhill Centre
+p310,d26,t1,8950 6712,36 Newton Rd #02-01 Hotel Royal S
+p311,d10,t5,8922 4106,BLK 177 BUKIT BATOK WEST AVENUE 8 #01-249
+p312,d27,t5,9718 4057,BLK 177 BUKIT BATOK WEST AVENUE 8 #01-249
+p313,d21,t6,8931 9688,1B Tanglin Hill
+p314,d23,t7,8951 5945,278 Bukit Batok East Avenue 3 01-353
+p315,d23,t6,8909 5424,10 HOE CHIANG ROAD 16-02
+p316,d15,t8,8051 2155,159B Kitchener Road
+p317,d35,t6,8951 3122,42A NORTH CANAL ROAD
+p318,d35,t8,8051 8996,1B Tanglin Hill
+p319,d31,t2,8951 2267,802 Bukit Batok West Avenue 5 01-01 Bukit
+p320,d41,t2,8950 7425,221 Boon Lay Place #01-198 Boon Lay Shopping Centre
+p321,d34,t3,9318 4926,10 HOE CHIANG ROAD 16-02
+p322,d22,t7,8951 1919,HDB-Jalan Kayu/Seletar 4 Seletar Road #01-97
+p323,d22,t2,8767 8867,1B Tanglin Hill
+p324,d22,t5,8042 8956,221 Boon Lay Place #01-198 Boon Lay Shopping Centre
+p325,d18,t4,8950 5369,194 PANDAN LOOP #06-07
+p326,d41,t5,8051 3201,278 Bukit Batok East Avenue 3 01-353
+p327,d46,t2,8952 5777,183B Thomson Road Goldhill Centre
+p328,d34,t7,8013 8408,194 PANDAN LOOP #06-07
+p329,d30,t7,9359 1989,333A Orchard Road #01-18 Mandarin Gallery
+p330,d29,t3,9521 0749,221 Boon Lay Place #01-198 Boon Lay Shopping Centre
+p331,d13,t5,9001 2266,159B Kitchener Road
+p332,d14,t2,9150 1669,HDB-Jalan Kayu/Seletar 4 Seletar Road #01-97
+p333,d49,t6,9899 9177,1 North Bridge Road #06-31 High Street Centre
+p334,d35,t7,8951 0097,183B Thomson Road Goldhill Centre
+p335,d25,t2,8950 3711,42A NORTH CANAL ROAD
+p336,d29,t2,8218 9286,194 PANDAN LOOP #06-07
+p337,d2,t8,8051 7752,194 PANDAN LOOP #06-07
+p338,d19,t8,9676 1527,BLK 177 BUKIT BATOK WEST AVENUE 8 #01-249
+p339,d6,t7,8952 3736,Northstar@AMK 7030 Ang Mo Kio Ave 5 #09-22
+p340,d32,t6,8951 2127,221 Boon Lay Place #01-198 Boon Lay Shopping Centre
+p341,d50,t4,9440 6784,1B Tanglin Hill
+p342,d48,t7,8950 4487,221 Boon Lay Place #01-198 Boon Lay Shopping Centre
+p343,d42,t4,9501 6725,42A NORTH CANAL ROAD
+p344,d7,t1,8404 9989,Jurong Point 1 Jurong West Central 2 #01-26f
+p345,d44,t1,8679 7619,183B Thomson Road Goldhill Centre
+p346,d20,t2,8950 8091,159B Kitchener Road
+p347,d14,t8,8951 5844,HDB-Jalan Kayu/Seletar 4 Seletar Road #01-97
+p348,d3,t2,8950 5641,12 New Industrial Road 06-03
+p349,d1,t6,8952 8984,BLK 177 BUKIT BATOK WEST AVENUE 8 #01-249
+p350,d17,t6,8950 7042,10 HOE CHIANG ROAD 16-02
+p351,d50,t6,8951 0668,333A Orchard Road #01-18 Mandarin Gallery
+p352,d24,t1,9868 2554,278 Bukit Batok East Avenue 3 01-353
+p353,d20,t3,8872 1220,HDB-Jalan Kayu/Seletar 4 Seletar Road #01-97
+p354,d1,t3,8950 7404,42A NORTH CANAL ROAD
+p355,d15,t7,9674 8610,2 Penjuru Close
+p356,d42,t7,8950 5376,10 HOE CHIANG ROAD 16-02
+p357,d8,t5,9220 2386,36 Newton Rd #02-01 Hotel Royal S
+p358,d36,t2,8951 5016,BLK 177 BUKIT BATOK WEST AVENUE 8 #01-249
+p359,d37,t2,8051 1402,BLK 177 BUKIT BATOK WEST AVENUE 8 #01-249
+p360,d39,t4,8951 0036,36 Newton Rd #02-01 Hotel Royal S
+p361,d14,t2,8051 8812,2 Penjuru Close
+p362,d4,t6,8951 4792,BLK 177 BUKIT BATOK WEST AVENUE 8 #01-249
+p363,d17,t3,8950 1193,38 C/38 D JALAN PEMIMPIN
+p364,d30,t2,8950 2574,2 Penjuru Close
+p365,d5,t4,8952 8240,1 North Bridge Road #06-31 High Street Centre
+p366,d32,t1,8051 2068,38 C/38 D JALAN PEMIMPIN
+p367,d14,t3,9653 2295,1B Tanglin Hill
+p368,d41,t8,9233 1875,BLK 5 TANJONG PAGAR PLAZA #01-08
+p369,d32,t1,9391 2582,12 New Industrial Road 06-03
+p370,d14,t4,9116 1730,2 Penjuru Close
+p371,d46,t1,8952 0008,10 HOE CHIANG ROAD 16-02
+p372,d48,t1,9865 9222,42A NORTH CANAL ROAD
+p373,d48,t7,8951 3488,1B Tanglin Hill
+p374,d33,t2,8950 8934,10 HOE CHIANG ROAD 16-02
+p375,d25,t7,8014 1278,38 C/38 D JALAN PEMIMPIN
+p376,d45,t8,8952 1691,38 C/38 D JALAN PEMIMPIN
+p377,d9,t7,8915 6507,183B Thomson Road Goldhill Centre
+p378,d19,t5,8946 2095,38 C/38 D JALAN PEMIMPIN
+p379,d5,t8,9677 0827,42A NORTH CANAL ROAD
+p380,d37,t5,8032 9340,194 PANDAN LOOP #06-07
+p381,d19,t1,8950 1332,BLK 5 TANJONG PAGAR PLAZA #01-08
+p382,d25,t7,9107 1458,BLK 5 TANJONG PAGAR PLAZA #01-08
+p383,d43,t2,8950 5904,12 New Industrial Road 06-03
+p384,d45,t8,9320 8819,BLK 177 BUKIT BATOK WEST AVENUE 8 #01-249
+p385,d9,t8,8051 9648,159B Kitchener Road
+p386,d24,t1,8950 8769,BLK 177 BUKIT BATOK WEST AVENUE 8 #01-249
+p387,d31,t7,9780 4474,42A NORTH CANAL ROAD
+p388,d48,t2,9685 6658,221 Boon Lay Place #01-198 Boon Lay Shopping Centre
+p389,d41,t6,8952 6959,36 Newton Rd #02-01 Hotel Royal S
+p390,d38,t3,8951 8255,183B Thomson Road Goldhill Centre
+p391,d35,t7,8022 3583,BLK 177 BUKIT BATOK WEST AVENUE 8 #01-249
+p392,d41,t1,9728 3514,42A NORTH CANAL ROAD
+p393,d5,t2,8909 7430,1B Tanglin Hill
+p394,d29,t4,8950 0587,HDB-Jalan Kayu/Seletar 4 Seletar Road #01-97
+p395,d48,t1,8319 6629,BLK 177 BUKIT BATOK WEST AVENUE 8 #01-249
+p396,d50,t4,8952 8860,42A NORTH CANAL ROAD
+p397,d47,t1,8952 2109,159B Kitchener Road
+p398,d7,t5,8051 9742,333A Orchard Road #01-18 Mandarin Gallery
+p399,d7,t1,8028 9029,1 North Bridge Road #06-31 High Street Centre
+p400,d29,t5,8951 5489,38 C/38 D JALAN PEMIMPIN
+p401,d6,t2,8950 6292,Northstar@AMK 7030 Ang Mo Kio Ave 5 #09-22
+p402,d34,t2,8032 0451,42A NORTH CANAL ROAD
+p403,d17,t5,8405 6911,Jurong Point 1 Jurong West Central 2 #01-26f
+p404,d33,t2,8908 0310,183B Thomson Road Goldhill Centre
+p405,d16,t7,8051 8081,Northstar@AMK 7030 Ang Mo Kio Ave 5 #09-22
+p406,d5,t7,8877 9852,333A Orchard Road #01-18 Mandarin Gallery
+p407,d29,t7,8051 7385,42A NORTH CANAL ROAD
+p408,d14,t4,9362 7290,1 North Bridge Road #06-31 High Street Centre
+p409,d38,t4,8910 1773,221 Boon Lay Place #01-198 Boon Lay Shopping Centre
+p410,d36,t2,8835 9293,38 C/38 D JALAN PEMIMPIN
+p411,d28,t5,8467 1346,HDB-Jalan Kayu/Seletar 4 Seletar Road #01-97
+p412,d22,t7,8950 5084,1B Tanglin Hill
+p413,d27,t4,8891 8505,BLK 5 TANJONG PAGAR PLAZA #01-08
+p414,d4,t1,9025 0644,2 Penjuru Close
+p415,d45,t4,9883 4353,183B Thomson Road Goldhill Centre
+p416,d15,t1,9171 0950,221 Boon Lay Place #01-198 Boon Lay Shopping Centre
+p417,d32,t6,8950 5258,159B Kitchener Road
+p418,d12,t2,8951 8116,BLK 177 BUKIT BATOK WEST AVENUE 8 #01-249
+p419,d43,t2,9688 2407,194 PANDAN LOOP #06-07
+p420,d44,t6,8051 2523,42A NORTH CANAL ROAD
+p421,d21,t5,8051 9188,183B Thomson Road Goldhill Centre
+p422,d36,t3,9209 7274,278 Bukit Batok East Avenue 3 01-353
+p423,d34,t4,8952 5934,1 North Bridge Road #06-31 High Street Centre
+p424,d36,t3,9099 5958,BLK 177 BUKIT BATOK WEST AVENUE 8 #01-249
+p425,d17,t4,8952 8577,38 C/38 D JALAN PEMIMPIN
+p426,d49,t7,9323 2264,333A Orchard Road #01-18 Mandarin Gallery
+p427,d45,t7,8038 9118,36 Newton Rd #02-01 Hotel Royal S
+p428,d20,t1,8952 4227,HDB-Jalan Kayu/Seletar 4 Seletar Road #01-97
+p429,d25,t2,8032 6957,12 New Industrial Road 06-03
+p430,d17,t2,9832 6341,36 Newton Rd #02-01 Hotel Royal S
+p431,d46,t6,9349 5855,HDB-Jalan Kayu/Seletar 4 Seletar Road #01-97
+p432,d24,t5,9078 0570,12 New Industrial Road 06-03
+p433,d37,t7,8952 8075,Jurong Point 1 Jurong West Central 2 #01-26f
+p434,d27,t7,8951 1145,12 New Industrial Road 06-03
+p435,d10,t4,8952 0272,36 Newton Rd #02-01 Hotel Royal S
+p436,d29,t2,8051 8247,1B Tanglin Hill
+p437,d16,t4,8043 6183,194 PANDAN LOOP #06-07
+p438,d17,t2,8952 5829,10 HOE CHIANG ROAD 16-02
+p439,d22,t1,8950 7437,12 New Industrial Road 06-03
+p440,d25,t7,8741 6040,278 Bukit Batok East Avenue 3 01-353
+p441,d24,t3,9637 5715,BLK 5 TANJONG PAGAR PLAZA #01-08
+p442,d49,t4,8051 6900,278 Bukit Batok East Avenue 3 01-353
+p443,d29,t7,8950 6356,183B Thomson Road Goldhill Centre
+p444,d11,t3,8952 2423,10 HOE CHIANG ROAD 16-02
+p445,d9,t7,8952 0467,194 PANDAN LOOP #06-07
+p446,d42,t8,9092 7639,Northstar@AMK 7030 Ang Mo Kio Ave 5 #09-22
+p447,d17,t2,8366 6900,Northstar@AMK 7030 Ang Mo Kio Ave 5 #09-22
+p448,d46,t1,8952 1865,Jurong Point 1 Jurong West Central 2 #01-26f
+p449,d12,t1,9427 4443,1B Tanglin Hill
+p450,d17,t8,9478 8190,Jurong Point 1 Jurong West Central 2 #01-26f
+p451,d42,t7,8573 8007,38 C/38 D JALAN PEMIMPIN
+p452,d28,t2,9766 4410,278 Bukit Batok East Avenue 3 01-353
+p453,d42,t2,9766 8026,333A Orchard Road #01-18 Mandarin Gallery
+p454,d35,t5,9013 5629,221 Boon Lay Place #01-198 Boon Lay Shopping Centre
+p455,d37,t2,8051 9531,BLK 5 TANJONG PAGAR PLAZA #01-08
+p456,d21,t1,8951 6515,10 HOE CHIANG ROAD 16-02
+p457,d34,t8,9857 6736,10 HOE CHIANG ROAD 16-02
+p458,d37,t3,8950 3786,278 Bukit Batok East Avenue 3 01-353
+p459,d41,t5,8952 9591,278 Bukit Batok East Avenue 3 01-353
+p460,d49,t2,8051 4678,10 HOE CHIANG ROAD 16-02
+p461,d27,t1,8051 4583,38 C/38 D JALAN PEMIMPIN
+p462,d34,t8,8950 8710,42A NORTH CANAL ROAD
+p463,d43,t7,8929 9185,42A NORTH CANAL ROAD
+p464,d24,t8,9484 3524,BLK 177 BUKIT BATOK WEST AVENUE 8 #01-249
+p465,d2,t2,8950 0085,HDB-Jalan Kayu/Seletar 4 Seletar Road #01-97
+p466,d14,t5,8041 2687,38 C/38 D JALAN PEMIMPIN
+p467,d22,t1,8028 1611,Jurong Point 1 Jurong West Central 2 #01-26f
+p468,d21,t1,8051 3819,12 New Industrial Road 06-03
+p469,d24,t5,9660 6009,BLK 5 TANJONG PAGAR PLAZA #01-08
+p470,d35,t3,8034 0084,42A NORTH CANAL ROAD
+p471,d5,t5,8950 7012,HDB-Jalan Kayu/Seletar 4 Seletar Road #01-97
+p472,d20,t3,8952 6119,194 PANDAN LOOP #06-07
+p473,d31,t2,8049 6308,2 Penjuru Close
+p474,d45,t4,8325 3563,194 PANDAN LOOP #06-07
+p475,d46,t8,9229 7895,1B Tanglin Hill
+p476,d15,t3,9277 1089,36 Newton Rd #02-01 Hotel Royal S
+p477,d27,t4,8635 8510,2 Penjuru Close
+p478,d11,t5,8036 5026,12 New Industrial Road 06-03
+p479,d40,t7,8952 5490,183B Thomson Road Goldhill Centre
+p480,d33,t8,9830 4633,BLK 177 BUKIT BATOK WEST AVENUE 8 #01-249
+p481,d13,t4,9731 7576,278 Bukit Batok East Avenue 3 01-353
+p482,d11,t4,8952 5995,12 New Industrial Road 06-03
+p483,d6,t1,8027 8982,36 Newton Rd #02-01 Hotel Royal S
+p484,d49,t7,8022 8088,Jurong Point 1 Jurong West Central 2 #01-26f
+p485,d32,t8,8950 0183,278 Bukit Batok East Avenue 3 01-353
+p486,d14,t3,8929 0018,159B Kitchener Road
+p487,d22,t8,9071 8340,12 New Industrial Road 06-03
+p488,d12,t2,8407 3559,2 Penjuru Close
+p489,d41,t5,8912 0539,183B Thomson Road Goldhill Centre
+p490,d9,t2,8012 8489,10 HOE CHIANG ROAD 16-02
+p491,d43,t3,8919 4651,42A NORTH CANAL ROAD
+p492,d1,t4,8950 1734,221 Boon Lay Place #01-198 Boon Lay Shopping Centre
+p493,d49,t2,9727 4930,1 North Bridge Road #06-31 High Street Centre
+p494,d12,t4,9446 0309,221 Boon Lay Place #01-198 Boon Lay Shopping Centre
+p495,d45,t1,8051 0951,333A Orchard Road #01-18 Mandarin Gallery
+p496,d9,t2,8952 6652,221 Boon Lay Place #01-198 Boon Lay Shopping Centre
+p497,d48,t1,9546 0205,221 Boon Lay Place #01-198 Boon Lay Shopping Centre
+p498,d8,t5,8491 9751,802 Bukit Batok West Avenue 5 01-01 Bukit
+p499,d33,t8,8038 0287,183B Thomson Road Goldhill Centre
+p500,d12,t1,9568 7893,BLK 5 TANJONG PAGAR PLAZA #01-08
+p501,d46,t6,9714 6330,194 PANDAN LOOP #06-07
+p502,d6,t5,8950 8539,194 PANDAN LOOP #06-07
+p503,d14,t7,8952 2244,38 C/38 D JALAN PEMIMPIN
+p504,d11,t8,8952 4358,333A Orchard Road #01-18 Mandarin Gallery
+p505,d7,t5,9336 2023,42A NORTH CANAL ROAD
+p506,d6,t1,9890 2686,1B Tanglin Hill
+p507,d21,t7,8951 8430,802 Bukit Batok West Avenue 5 01-01 Bukit
+p508,d37,t3,9397 1948,333A Orchard Road #01-18 Mandarin Gallery
+p509,d41,t3,8950 7100,802 Bukit Batok West Avenue 5 01-01 Bukit
+p510,d37,t1,8951 8968,Jurong Point 1 Jurong West Central 2 #01-26f
+p511,d46,t4,8936 7881,HDB-Jalan Kayu/Seletar 4 Seletar Road #01-97
+p512,d23,t3,8485 8914,12 New Industrial Road 06-03
+p513,d42,t4,9237 0357,38 C/38 D JALAN PEMIMPIN
+p514,d9,t3,9704 5607,12 New Industrial Road 06-03
+p515,d2,t8,9376 4651,183B Thomson Road Goldhill Centre
+p516,d31,t1,8950 2425,278 Bukit Batok East Avenue 3 01-353
+p517,d47,t8,9814 6127,42A NORTH CANAL ROAD
+p518,d23,t7,9665 5239,36 Newton Rd #02-01 Hotel Royal S
+p519,d22,t4,8051 7368,BLK 5 TANJONG PAGAR PLAZA #01-08
+p520,d13,t6,8951 6762,BLK 5 TANJONG PAGAR PLAZA #01-08
+p521,d20,t6,8051 9986,Northstar@AMK 7030 Ang Mo Kio Ave 5 #09-22
+p522,d27,t3,8950 7278,42A NORTH CANAL ROAD
+p523,d45,t5,8952 4985,36 Newton Rd #02-01 Hotel Royal S
+p524,d23,t2,8467 4520,12 New Industrial Road 06-03
+p525,d28,t3,8951 4028,BLK 5 TANJONG PAGAR PLAZA #01-08
+p526,d34,t5,8952 1852,BLK 5 TANJONG PAGAR PLAZA #01-08
+p527,d2,t5,8951 9396,HDB-Jalan Kayu/Seletar 4 Seletar Road #01-97
+p528,d24,t7,8051 5636,221 Boon Lay Place #01-198 Boon Lay Shopping Centre
+p529,d8,t6,8952 2844,333A Orchard Road #01-18 Mandarin Gallery
+p530,d10,t7,9052 0860,183B Thomson Road Goldhill Centre
+p531,d15,t7,8015 4134,38 C/38 D JALAN PEMIMPIN
+p532,d9,t5,8027 9404,BLK 177 BUKIT BATOK WEST AVENUE 8 #01-249
+p533,d6,t3,8952 6433,1B Tanglin Hill
+p534,d17,t7,9757 4178,Northstar@AMK 7030 Ang Mo Kio Ave 5 #09-22
+p535,d1,t6,9510 5494,Jurong Point 1 Jurong West Central 2 #01-26f
+p536,d32,t5,8051 6766,Jurong Point 1 Jurong West Central 2 #01-26f
+p537,d3,t5,9316 3281,183B Thomson Road Goldhill Centre
+p538,d29,t6,8950 6815,1B Tanglin Hill
+p539,d35,t2,8051 3642,183B Thomson Road Goldhill Centre
+p540,d33,t1,8952 9934,2 Penjuru Close
+p541,d7,t5,8952 4197,Jurong Point 1 Jurong West Central 2 #01-26f
+p542,d33,t5,9010 8000,10 HOE CHIANG ROAD 16-02
+p543,d50,t7,8918 9318,221 Boon Lay Place #01-198 Boon Lay Shopping Centre
+p544,d29,t2,9243 4286,183B Thomson Road Goldhill Centre
+p545,d12,t6,8345 2240,BLK 177 BUKIT BATOK WEST AVENUE 8 #01-249
+p546,d20,t1,8945 9815,183B Thomson Road Goldhill Centre
+p547,d1,t8,9701 8022,Jurong Point 1 Jurong West Central 2 #01-26f
+p548,d36,t8,8950 8130,10 HOE CHIANG ROAD 16-02
+p549,d13,t2,9853 1648,802 Bukit Batok West Avenue 5 01-01 Bukit
+p550,d24,t1,8051 4301,10 HOE CHIANG ROAD 16-02
+p551,d20,t1,8951 2911,12 New Industrial Road 06-03
+p552,d4,t8,9108 9228,42A NORTH CANAL ROAD
+p553,d41,t3,8051 0595,278 Bukit Batok East Avenue 3 01-353
+p554,d13,t6,9620 3194,159B Kitchener Road
+p555,d13,t1,8051 8017,BLK 177 BUKIT BATOK WEST AVENUE 8 #01-249
+p556,d37,t5,8912 0265,Jurong Point 1 Jurong West Central 2 #01-26f
+p557,d40,t3,8140 1920,BLK 177 BUKIT BATOK WEST AVENUE 8 #01-249
+p558,d21,t4,9424 2696,159B Kitchener Road
+p559,d35,t1,8917 3986,183B Thomson Road Goldhill Centre
+p560,d24,t3,9637 9490,194 PANDAN LOOP #06-07
+p561,d7,t1,9588 9209,1 North Bridge Road #06-31 High Street Centre
+p562,d13,t7,8950 9045,802 Bukit Batok West Avenue 5 01-01 Bukit
+p563,d26,t8,8950 4139,159B Kitchener Road
+p564,d30,t8,8908 8564,38 C/38 D JALAN PEMIMPIN
+p565,d10,t6,8051 7151,333A Orchard Road #01-18 Mandarin Gallery
+p566,d4,t6,8023 3972,42A NORTH CANAL ROAD
+p567,d15,t5,8033 7912,12 New Industrial Road 06-03
+p568,d38,t7,9219 2049,12 New Industrial Road 06-03
+p569,d14,t1,8951 8187,333A Orchard Road #01-18 Mandarin Gallery
+p570,d38,t8,8952 5393,221 Boon Lay Place #01-198 Boon Lay Shopping Centre
+p571,d42,t2,8051 1810,802 Bukit Batok West Avenue 5 01-01 Bukit
+p572,d41,t6,9454 3661,Northstar@AMK 7030 Ang Mo Kio Ave 5 #09-22
+p573,d23,t1,9723 6887,10 HOE CHIANG ROAD 16-02
+p574,d19,t6,8020 2857,Jurong Point 1 Jurong West Central 2 #01-26f
+p575,d20,t5,8951 0060,HDB-Jalan Kayu/Seletar 4 Seletar Road #01-97
+p576,d7,t7,8952 3688,36 Newton Rd #02-01 Hotel Royal S
+p577,d35,t4,8051 3719,36 Newton Rd #02-01 Hotel Royal S
+p578,d16,t5,8923 0807,Jurong Point 1 Jurong West Central 2 #01-26f
+p579,d16,t4,9420 1249,BLK 177 BUKIT BATOK WEST AVENUE 8 #01-249
+p580,d35,t2,8952 0098,183B Thomson Road Goldhill Centre
+p581,d32,t6,8022 6492,BLK 177 BUKIT BATOK WEST AVENUE 8 #01-249
+p582,d25,t3,9037 9099,802 Bukit Batok West Avenue 5 01-01 Bukit
+p583,d3,t6,9294 3186,1B Tanglin Hill
+p584,d38,t1,8342 4307,802 Bukit Batok West Avenue 5 01-01 Bukit
+p585,d48,t5,9529 9847,Jurong Point 1 Jurong West Central 2 #01-26f
+p586,d35,t4,8950 3780,221 Boon Lay Place #01-198 Boon Lay Shopping Centre
+p587,d43,t3,9477 8542,BLK 5 TANJONG PAGAR PLAZA #01-08
+p588,d40,t6,8952 9335,183B Thomson Road Goldhill Centre
+p589,d17,t4,8051 6447,1 North Bridge Road #06-31 High Street Centre
+p590,d14,t7,9661 6808,2 Penjuru Close
+p591,d11,t4,8951 2251,183B Thomson Road Goldhill Centre
+p592,d9,t4,9331 5755,194 PANDAN LOOP #06-07
+p593,d41,t5,9304 2368,Jurong Point 1 Jurong West Central 2 #01-26f
+p594,d33,t7,8950 3039,2 Penjuru Close
+p595,d8,t7,8909 5704,802 Bukit Batok West Avenue 5 01-01 Bukit
+p596,d20,t1,8051 5662,333A Orchard Road #01-18 Mandarin Gallery
+p597,d30,t1,8051 8641,159B Kitchener Road
+p598,d35,t8,9195 9339,10 HOE CHIANG ROAD 16-02
+p599,d50,t1,8951 8324,BLK 5 TANJONG PAGAR PLAZA #01-08
+p600,d50,t1,8952 7615,38 C/38 D JALAN PEMIMPIN
+p601,d10,t5,8051 8559,194 PANDAN LOOP #06-07
+p602,d16,t8,8951 1279,HDB-Jalan Kayu/Seletar 4 Seletar Road #01-97
+p603,d38,t5,8051 9970,HDB-Jalan Kayu/Seletar 4 Seletar Road #01-97
+p604,d29,t4,9196 9008,194 PANDAN LOOP #06-07
+p605,d13,t7,8051 3005,802 Bukit Batok West Avenue 5 01-01 Bukit
+p606,d13,t3,9530 7416,194 PANDAN LOOP #06-07
+p607,d10,t5,8583 7469,194 PANDAN LOOP #06-07
+p608,d10,t4,8051 4374,802 Bukit Batok West Avenue 5 01-01 Bukit
+p609,d23,t6,9442 3900,278 Bukit Batok East Avenue 3 01-353
+p610,d6,t1,9226 1880,Northstar@AMK 7030 Ang Mo Kio Ave 5 #09-22
+p611,d38,t7,8950 2951,1 North Bridge Road #06-31 High Street Centre
+p612,d39,t3,8951 2170,1 North Bridge Road #06-31 High Street Centre
+p613,d11,t8,8950 1526,278 Bukit Batok East Avenue 3 01-353
+p614,d11,t7,9773 3487,221 Boon Lay Place #01-198 Boon Lay Shopping Centre
+p615,d21,t5,8904 0664,42A NORTH CANAL ROAD
+p616,d39,t4,8051 8100,Northstar@AMK 7030 Ang Mo Kio Ave 5 #09-22
+p617,d28,t1,8952 8285,42A NORTH CANAL ROAD
+p618,d48,t2,9694 9432,159B Kitchener Road
+p619,d4,t2,8043 4812,Northstar@AMK 7030 Ang Mo Kio Ave 5 #09-22
+p620,d29,t3,8951 1743,BLK 5 TANJONG PAGAR PLAZA #01-08
+p621,d40,t6,8051 9132,Jurong Point 1 Jurong West Central 2 #01-26f
+p622,d45,t6,8950 0174,333A Orchard Road #01-18 Mandarin Gallery
+p623,d10,t4,8051 4907,12 New Industrial Road 06-03
+p624,d6,t6,8022 4908,36 Newton Rd #02-01 Hotel Royal S
+p625,d31,t2,8951 9416,Jurong Point 1 Jurong West Central 2 #01-26f
+p626,d23,t1,8952 7494,333A Orchard Road #01-18 Mandarin Gallery
+p627,d43,t2,8921 2376,Northstar@AMK 7030 Ang Mo Kio Ave 5 #09-22
+p628,d13,t5,8950 4155,10 HOE CHIANG ROAD 16-02
+p629,d44,t8,9123 3867,38 C/38 D JALAN PEMIMPIN
+p630,d16,t1,9850 9740,221 Boon Lay Place #01-198 Boon Lay Shopping Centre
+p631,d15,t3,9681 1053,194 PANDAN LOOP #06-07
+p632,d28,t8,8951 1120,HDB-Jalan Kayu/Seletar 4 Seletar Road #01-97
+p633,d36,t1,8051 6147,Jurong Point 1 Jurong West Central 2 #01-26f
+p634,d30,t6,9014 5712,221 Boon Lay Place #01-198 Boon Lay Shopping Centre
+p635,d47,t3,8952 2322,194 PANDAN LOOP #06-07
+p636,d18,t3,8902 4055,HDB-Jalan Kayu/Seletar 4 Seletar Road #01-97
+p637,d28,t5,8429 4031,BLK 5 TANJONG PAGAR PLAZA #01-08
+p638,d32,t3,8950 6902,42A NORTH CANAL ROAD
+p639,d40,t4,9456 1705,10 HOE CHIANG ROAD 16-02
+p640,d16,t5,8161 9613,12 New Industrial Road 06-03
+p641,d13,t6,8951 8283,278 Bukit Batok East Avenue 3 01-353
+p642,d23,t7,8051 7156,38 C/38 D JALAN PEMIMPIN
+p643,d10,t5,9209 9002,1B Tanglin Hill
+p644,d32,t5,9179 3999,42A NORTH CANAL ROAD
+p645,d5,t2,9829 1987,802 Bukit Batok West Avenue 5 01-01 Bukit
+p646,d25,t6,8379 1993,Northstar@AMK 7030 Ang Mo Kio Ave 5 #09-22
+p647,d3,t6,8943 6914,2 Penjuru Close
+p648,d18,t8,8933 6218,159B Kitchener Road
+p649,d21,t3,8951 8671,10 HOE CHIANG ROAD 16-02
+p650,d24,t3,8951 9161,10 HOE CHIANG ROAD 16-02
+p651,d3,t5,8939 1496,159B Kitchener Road
+p652,d29,t5,8952 9501,333A Orchard Road #01-18 Mandarin Gallery
+p653,d18,t3,8950 1670,221 Boon Lay Place #01-198 Boon Lay Shopping Centre
+p654,d9,t4,8051 1739,Jurong Point 1 Jurong West Central 2 #01-26f
+p655,d3,t3,8945 0642,10 HOE CHIANG ROAD 16-02
+p656,d39,t8,8472 5276,802 Bukit Batok West Avenue 5 01-01 Bukit
+p657,d23,t2,8952 7419,Jurong Point 1 Jurong West Central 2 #01-26f
+p658,d46,t8,8036 0352,42A NORTH CANAL ROAD
+p659,d20,t3,9307 8533,Jurong Point 1 Jurong West Central 2 #01-26f
+p660,d4,t2,9068 0474,36 Newton Rd #02-01 Hotel Royal S
+p661,d29,t4,9073 3036,802 Bukit Batok West Avenue 5 01-01 Bukit
+p662,d44,t7,8138 2519,42A NORTH CANAL ROAD
+p663,d43,t3,9444 6936,BLK 5 TANJONG PAGAR PLAZA #01-08
+p664,d50,t3,8952 5254,278 Bukit Batok East Avenue 3 01-353
+p665,d48,t6,9734 5992,HDB-Jalan Kayu/Seletar 4 Seletar Road #01-97
+p666,d50,t1,8950 8672,802 Bukit Batok West Avenue 5 01-01 Bukit
+p667,d14,t2,8738 9702,333A Orchard Road #01-18 Mandarin Gallery
+p668,d17,t1,9603 8418,159B Kitchener Road
+p669,d39,t3,9794 6787,BLK 177 BUKIT BATOK WEST AVENUE 8 #01-249
+p670,d14,t2,9196 8830,221 Boon Lay Place #01-198 Boon Lay Shopping Centre
+p671,d35,t6,8952 4087,HDB-Jalan Kayu/Seletar 4 Seletar Road #01-97
+p672,d3,t8,9397 4786,221 Boon Lay Place #01-198 Boon Lay Shopping Centre
+p673,d16,t3,8952 3362,221 Boon Lay Place #01-198 Boon Lay Shopping Centre
+p674,d20,t3,9243 0719,38 C/38 D JALAN PEMIMPIN
+p675,d18,t8,8952 9441,10 HOE CHIANG ROAD 16-02
+p676,d18,t5,8950 0268,194 PANDAN LOOP #06-07
+p677,d21,t2,9877 9885,183B Thomson Road Goldhill Centre
+p678,d42,t1,8051 6372,159B Kitchener Road
+p679,d49,t1,8952 5306,278 Bukit Batok East Avenue 3 01-353
+p680,d23,t6,8051 2915,BLK 177 BUKIT BATOK WEST AVENUE 8 #01-249
+p681,d22,t8,8951 6882,12 New Industrial Road 06-03
+p682,d34,t7,9840 2183,36 Newton Rd #02-01 Hotel Royal S
+p683,d44,t1,8909 5853,36 Newton Rd #02-01 Hotel Royal S
+p684,d36,t3,8051 7012,1 North Bridge Road #06-31 High Street Centre
+p685,d41,t8,9110 2869,42A NORTH CANAL ROAD
+p686,d33,t1,8950 6782,42A NORTH CANAL ROAD
+p687,d31,t3,8952 6038,1 North Bridge Road #06-31 High Street Centre
+p688,d24,t1,8950 0992,Jurong Point 1 Jurong West Central 2 #01-26f
+p689,d31,t8,8952 8600,42A NORTH CANAL ROAD
+p690,d23,t3,8051 5171,10 HOE CHIANG ROAD 16-02
+p691,d42,t6,8035 8358,159B Kitchener Road
+p692,d8,t2,8048 9322,Jurong Point 1 Jurong West Central 2 #01-26f
+p693,d6,t6,9216 2558,10 HOE CHIANG ROAD 16-02
+p694,d15,t5,8952 9796,12 New Industrial Road 06-03
+p695,d13,t1,8950 2951,802 Bukit Batok West Avenue 5 01-01 Bukit
+p696,d48,t1,8051 0551,38 C/38 D JALAN PEMIMPIN
+p697,d20,t2,8051 5011,333A Orchard Road #01-18 Mandarin Gallery
+p698,d7,t7,8950 8288,36 Newton Rd #02-01 Hotel Royal S
+p699,d17,t2,8950 5304,183B Thomson Road Goldhill Centre
+p700,d41,t1,8951 5593,333A Orchard Road #01-18 Mandarin Gallery
+p701,d32,t3,9511 8427,159B Kitchener Road
+p702,d43,t8,8170 8044,278 Bukit Batok East Avenue 3 01-353
+p703,d38,t8,8051 3495,1 North Bridge Road #06-31 High Street Centre
+p704,d11,t4,8051 2794,42A NORTH CANAL ROAD
+p705,d3,t8,9712 6789,42A NORTH CANAL ROAD
+p706,d35,t6,8952 0924,1B Tanglin Hill
+p707,d40,t5,9090 5574,Northstar@AMK 7030 Ang Mo Kio Ave 5 #09-22
+p708,d36,t1,8051 7191,1 North Bridge Road #06-31 High Street Centre
+p709,d26,t2,8051 4681,221 Boon Lay Place #01-198 Boon Lay Shopping Centre
+p710,d45,t4,8913 1894,194 PANDAN LOOP #06-07
+p711,d24,t2,9209 5809,1B Tanglin Hill
+p712,d15,t8,9773 4007,194 PANDAN LOOP #06-07
+p713,d15,t3,8950 9000,221 Boon Lay Place #01-198 Boon Lay Shopping Centre
+p714,d1,t6,8051 6478,333A Orchard Road #01-18 Mandarin Gallery
+p715,d36,t3,8952 6363,221 Boon Lay Place #01-198 Boon Lay Shopping Centre
+p716,d20,t2,9446 6375,Northstar@AMK 7030 Ang Mo Kio Ave 5 #09-22
+p717,d24,t3,8951 0948,Northstar@AMK 7030 Ang Mo Kio Ave 5 #09-22
+p718,d5,t6,9312 6988,38 C/38 D JALAN PEMIMPIN
+p719,d15,t2,8952 8534,BLK 177 BUKIT BATOK WEST AVENUE 8 #01-249
+p720,d23,t2,9755 4147,BLK 177 BUKIT BATOK WEST AVENUE 8 #01-249
+p721,d16,t3,9735 9711,2 Penjuru Close
+p722,d23,t6,8952 5258,BLK 177 BUKIT BATOK WEST AVENUE 8 #01-249
+p723,d26,t3,9292 3968,1B Tanglin Hill
+p724,d21,t6,9767 5428,12 New Industrial Road 06-03
+p725,d39,t4,8952 9050,194 PANDAN LOOP #06-07
+p726,d33,t2,8952 4368,HDB-Jalan Kayu/Seletar 4 Seletar Road #01-97
+p727,d2,t6,9523 8324,HDB-Jalan Kayu/Seletar 4 Seletar Road #01-97
+p728,d46,t4,8950 7424,Jurong Point 1 Jurong West Central 2 #01-26f
+p729,d33,t4,8952 1555,BLK 5 TANJONG PAGAR PLAZA #01-08
+p730,d28,t1,9345 6950,221 Boon Lay Place #01-198 Boon Lay Shopping Centre
+p731,d2,t3,9573 6561,278 Bukit Batok East Avenue 3 01-353
+p732,d48,t5,8773 0612,12 New Industrial Road 06-03
+p733,d19,t1,8950 8900,278 Bukit Batok East Avenue 3 01-353
+p734,d3,t5,8051 2324,159B Kitchener Road
+p735,d29,t1,9236 0674,159B Kitchener Road
+p736,d33,t4,9732 3429,278 Bukit Batok East Avenue 3 01-353
+p737,d28,t8,8051 1594,HDB-Jalan Kayu/Seletar 4 Seletar Road #01-97
+p738,d39,t4,8051 3470,Northstar@AMK 7030 Ang Mo Kio Ave 5 #09-22
+p739,d33,t6,8950 9814,802 Bukit Batok West Avenue 5 01-01 Bukit
+p740,d28,t6,9898 3964,159B Kitchener Road
+p741,d48,t6,8051 0375,802 Bukit Batok West Avenue 5 01-01 Bukit
+p742,d19,t7,8950 3931,802 Bukit Batok West Avenue 5 01-01 Bukit
+p743,d23,t7,9008 2375,194 PANDAN LOOP #06-07
+p744,d23,t7,8950 4974,802 Bukit Batok West Avenue 5 01-01 Bukit
+p745,d22,t8,9736 7548,BLK 5 TANJONG PAGAR PLAZA #01-08
+p746,d8,t4,9013 2572,159B Kitchener Road
+p747,d43,t2,8051 9970,12 New Industrial Road 06-03
+p748,d48,t6,8952 5685,2 Penjuru Close
+p749,d37,t3,8952 9395,Northstar@AMK 7030 Ang Mo Kio Ave 5 #09-22
+p750,d18,t5,9391 2034,333A Orchard Road #01-18 Mandarin Gallery
+p751,d15,t1,8952 9042,2 Penjuru Close
+p752,d40,t3,8951 9987,36 Newton Rd #02-01 Hotel Royal S
+p753,d13,t6,9476 0986,2 Penjuru Close
+p754,d26,t2,8051 0238,221 Boon Lay Place #01-198 Boon Lay Shopping Centre
+p755,d4,t3,8051 2314,1 North Bridge Road #06-31 High Street Centre
+p756,d35,t7,8030 5279,1B Tanglin Hill
+p757,d11,t6,8041 1901,2 Penjuru Close
+p758,d38,t8,8952 2574,BLK 177 BUKIT BATOK WEST AVENUE 8 #01-249
+p759,d28,t4,9472 6347,221 Boon Lay Place #01-198 Boon Lay Shopping Centre
+p760,d16,t3,9431 7406,159B Kitchener Road
+p761,d30,t3,9397 8449,38 C/38 D JALAN PEMIMPIN
+p762,d40,t3,8950 3270,194 PANDAN LOOP #06-07
+p763,d15,t8,8952 4766,194 PANDAN LOOP #06-07
+p764,d2,t1,9683 1811,159B Kitchener Road
+p765,d23,t1,8951 9879,12 New Industrial Road 06-03
+p766,d28,t4,9539 4267,1B Tanglin Hill
+p767,d16,t7,8951 4834,BLK 5 TANJONG PAGAR PLAZA #01-08
+p768,d36,t2,8951 1744,1 North Bridge Road #06-31 High Street Centre
+p769,d22,t5,8766 0332,36 Newton Rd #02-01 Hotel Royal S
+p770,d30,t5,8952 7383,38 C/38 D JALAN PEMIMPIN
+p771,d46,t6,9544 1283,36 Newton Rd #02-01 Hotel Royal S
+p772,d22,t7,8951 0759,HDB-Jalan Kayu/Seletar 4 Seletar Road #01-97
+p773,d8,t2,9836 1397,221 Boon Lay Place #01-198 Boon Lay Shopping Centre
+p774,d17,t6,8325 0507,38 C/38 D JALAN PEMIMPIN
+p775,d39,t4,8952 6531,BLK 177 BUKIT BATOK WEST AVENUE 8 #01-249
+p776,d44,t5,8950 8260,Jurong Point 1 Jurong West Central 2 #01-26f
+p777,d27,t2,8418 9387,1B Tanglin Hill
+p778,d11,t8,8952 9949,12 New Industrial Road 06-03
+p779,d30,t3,8950 3879,221 Boon Lay Place #01-198 Boon Lay Shopping Centre
+p780,d20,t1,8051 6611,2 Penjuru Close
+p781,d33,t4,8040 1739,802 Bukit Batok West Avenue 5 01-01 Bukit
+p782,d4,t1,8051 9596,36 Newton Rd #02-01 Hotel Royal S
+p783,d25,t8,8952 5070,42A NORTH CANAL ROAD
+p784,d36,t4,8165 8327,10 HOE CHIANG ROAD 16-02
+p785,d2,t7,9097 1482,194 PANDAN LOOP #06-07
+p786,d42,t2,9176 7199,10 HOE CHIANG ROAD 16-02
+p787,d14,t5,9126 9326,Northstar@AMK 7030 Ang Mo Kio Ave 5 #09-22
+p788,d1,t5,8051 5977,333A Orchard Road #01-18 Mandarin Gallery
+p789,d4,t7,9816 1623,1 North Bridge Road #06-31 High Street Centre
+p790,d24,t4,8414 4620,183B Thomson Road Goldhill Centre
+p791,d22,t7,8932 2669,BLK 5 TANJONG PAGAR PLAZA #01-08
+p792,d17,t4,8051 3194,183B Thomson Road Goldhill Centre
+p793,d26,t3,9284 3524,BLK 5 TANJONG PAGAR PLAZA #01-08
+p794,d22,t4,8051 0392,BLK 5 TANJONG PAGAR PLAZA #01-08
+p795,d4,t3,8952 5854,333A Orchard Road #01-18 Mandarin Gallery
+p796,d29,t1,8034 8928,183B Thomson Road Goldhill Centre
+p797,d23,t1,8952 2400,194 PANDAN LOOP #06-07
+p798,d17,t6,9785 1951,183B Thomson Road Goldhill Centre
+p799,d38,t2,8051 4979,HDB-Jalan Kayu/Seletar 4 Seletar Road #01-97
+p800,d13,t6,9003 1601,2 Penjuru Close
+p801,d47,t8,8051 0580,Jurong Point 1 Jurong West Central 2 #01-26f
+p802,d36,t2,8952 9316,1B Tanglin Hill
+p803,d50,t6,8952 3535,278 Bukit Batok East Avenue 3 01-353
+p804,d5,t4,8952 7041,HDB-Jalan Kayu/Seletar 4 Seletar Road #01-97
+p805,d29,t3,8215 9302,183B Thomson Road Goldhill Centre
+p806,d23,t3,8051 5424,42A NORTH CANAL ROAD
+p807,d28,t1,9273 4168,36 Newton Rd #02-01 Hotel Royal S
+p808,d8,t8,8951 6410,183B Thomson Road Goldhill Centre
+p809,d36,t2,8950 3938,HDB-Jalan Kayu/Seletar 4 Seletar Road #01-97
+p810,d13,t5,8950 9700,802 Bukit Batok West Avenue 5 01-01 Bukit
+p811,d11,t8,8922 6100,Northstar@AMK 7030 Ang Mo Kio Ave 5 #09-22
+p812,d44,t4,8051 2606,Northstar@AMK 7030 Ang Mo Kio Ave 5 #09-22
+p813,d19,t5,9401 8547,HDB-Jalan Kayu/Seletar 4 Seletar Road #01-97
+p814,d49,t8,8051 4504,38 C/38 D JALAN PEMIMPIN
+p815,d37,t3,8950 1396,38 C/38 D JALAN PEMIMPIN
+p816,d34,t7,8051 9147,802 Bukit Batok West Avenue 5 01-01 Bukit
+p817,d50,t4,8951 9380,BLK 177 BUKIT BATOK WEST AVENUE 8 #01-249
+p818,d6,t7,8051 2202,38 C/38 D JALAN PEMIMPIN
+p819,d6,t2,8048 6516,1 North Bridge Road #06-31 High Street Centre
+p820,d23,t7,9116 3896,221 Boon Lay Place #01-198 Boon Lay Shopping Centre
+p821,d25,t7,9743 7023,278 Bukit Batok East Avenue 3 01-353
+p822,d5,t7,8952 7843,1 North Bridge Road #06-31 High Street Centre
+p823,d17,t3,8051 5982,221 Boon Lay Place #01-198 Boon Lay Shopping Centre
+p824,d40,t7,8345 2641,333A Orchard Road #01-18 Mandarin Gallery
+p825,d28,t6,9880 3016,221 Boon Lay Place #01-198 Boon Lay Shopping Centre
+p826,d30,t1,8051 9339,333A Orchard Road #01-18 Mandarin Gallery
+p827,d35,t7,8325 7513,Northstar@AMK 7030 Ang Mo Kio Ave 5 #09-22
+p828,d23,t2,8952 3781,HDB-Jalan Kayu/Seletar 4 Seletar Road #01-97
+p829,d49,t5,9088 2315,12 New Industrial Road 06-03
+p830,d36,t2,9458 4892,10 HOE CHIANG ROAD 16-02
+p831,d35,t4,9724 7573,Jurong Point 1 Jurong West Central 2 #01-26f
+p832,d12,t3,8013 0724,BLK 177 BUKIT BATOK WEST AVENUE 8 #01-249
+p833,d45,t5,8033 5367,1 North Bridge Road #06-31 High Street Centre
+p834,d49,t2,8912 2966,183B Thomson Road Goldhill Centre
+p835,d26,t3,8051 3180,36 Newton Rd #02-01 Hotel Royal S
+p836,d4,t1,9321 8837,38 C/38 D JALAN PEMIMPIN
+p837,d25,t4,8924 0651,10 HOE CHIANG ROAD 16-02
+p838,d42,t2,9561 1411,36 Newton Rd #02-01 Hotel Royal S
+p839,d4,t3,8950 5505,221 Boon Lay Place #01-198 Boon Lay Shopping Centre
+p840,d15,t5,8051 5018,BLK 177 BUKIT BATOK WEST AVENUE 8 #01-249
+p841,d41,t4,9706 4861,38 C/38 D JALAN PEMIMPIN
+p842,d30,t1,8914 4302,278 Bukit Batok East Avenue 3 01-353
+p843,d48,t1,9493 1393,BLK 177 BUKIT BATOK WEST AVENUE 8 #01-249
+p844,d11,t6,9428 1507,38 C/38 D JALAN PEMIMPIN
+p845,d50,t7,8951 0722,Jurong Point 1 Jurong West Central 2 #01-26f
+p846,d4,t4,8033 0866,802 Bukit Batok West Avenue 5 01-01 Bukit
+p847,d8,t8,8950 0515,1 North Bridge Road #06-31 High Street Centre
+p848,d50,t1,9820 5574,278 Bukit Batok East Avenue 3 01-353
+p849,d39,t1,8937 4239,12 New Industrial Road 06-03
+p850,d50,t3,9439 9903,42A NORTH CANAL ROAD
+p851,d48,t4,8951 6961,194 PANDAN LOOP #06-07
+p852,d32,t8,8051 2442,159B Kitchener Road
+p853,d41,t6,8648 2649,38 C/38 D JALAN PEMIMPIN
+p854,d13,t3,9598 0301,278 Bukit Batok East Avenue 3 01-353
+p855,d13,t3,8950 0669,333A Orchard Road #01-18 Mandarin Gallery
+p856,d47,t6,9839 1688,1 North Bridge Road #06-31 High Street Centre
+p857,d11,t2,8951 8017,36 Newton Rd #02-01 Hotel Royal S
+p858,d48,t8,8951 9371,42A NORTH CANAL ROAD
+p859,d50,t7,9071 6414,2 Penjuru Close
+p860,d35,t8,9180 4152,12 New Industrial Road 06-03
+p861,d6,t6,8952 2525,Northstar@AMK 7030 Ang Mo Kio Ave 5 #09-22
+p862,d14,t6,9170 7703,2 Penjuru Close
+p863,d17,t3,8951 3604,12 New Industrial Road 06-03
+p864,d24,t4,9837 8876,278 Bukit Batok East Avenue 3 01-353
+p865,d25,t7,9850 9624,183B Thomson Road Goldhill Centre
+p866,d24,t8,9489 5173,278 Bukit Batok East Avenue 3 01-353
+p867,d31,t2,8915 0011,1 North Bridge Road #06-31 High Street Centre
+p868,d8,t3,9244 4328,2 Penjuru Close
+p869,d32,t4,8951 1067,10 HOE CHIANG ROAD 16-02
+p870,d38,t2,9217 2084,159B Kitchener Road
+p871,d46,t5,8922 1027,159B Kitchener Road
+p872,d48,t3,8944 9309,Jurong Point 1 Jurong West Central 2 #01-26f
+p873,d38,t3,8051 5298,333A Orchard Road #01-18 Mandarin Gallery
+p874,d7,t8,9550 0521,159B Kitchener Road
+p875,d28,t2,8051 4573,10 HOE CHIANG ROAD 16-02
+p876,d13,t6,8912 5687,36 Newton Rd #02-01 Hotel Royal S
+p877,d23,t5,8860 1334,278 Bukit Batok East Avenue 3 01-353
+p878,d36,t5,8346 3043,Jurong Point 1 Jurong West Central 2 #01-26f
+p879,d26,t2,9880 5061,194 PANDAN LOOP #06-07
+p880,d29,t8,8950 2157,1B Tanglin Hill
+p881,d47,t4,8051 9186,BLK 5 TANJONG PAGAR PLAZA #01-08
+p882,d12,t4,9817 3848,194 PANDAN LOOP #06-07
+p883,d32,t6,8133 5828,2 Penjuru Close
+p884,d11,t2,8952 4636,333A Orchard Road #01-18 Mandarin Gallery
+p885,d49,t6,8946 8147,Northstar@AMK 7030 Ang Mo Kio Ave 5 #09-22
+p886,d10,t4,9026 3277,BLK 5 TANJONG PAGAR PLAZA #01-08
+p887,d40,t3,9413 7086,183B Thomson Road Goldhill Centre
+p888,d8,t4,8120 9612,HDB-Jalan Kayu/Seletar 4 Seletar Road #01-97
+p889,d35,t7,9134 5091,Jurong Point 1 Jurong West Central 2 #01-26f
+p890,d1,t5,8950 6215,1 North Bridge Road #06-31 High Street Centre
+p891,d43,t6,8886 2597,802 Bukit Batok West Avenue 5 01-01 Bukit
+p892,d1,t6,8950 0446,38 C/38 D JALAN PEMIMPIN
+p893,d15,t6,8951 1486,42A NORTH CANAL ROAD
+p894,d14,t5,8051 8235,194 PANDAN LOOP #06-07
+p895,d37,t4,8022 2893,38 C/38 D JALAN PEMIMPIN
+p896,d2,t2,8951 7006,10 HOE CHIANG ROAD 16-02
+p897,d30,t7,8951 5372,2 Penjuru Close
+p898,d5,t4,8952 8670,221 Boon Lay Place #01-198 Boon Lay Shopping Centre
+p899,d2,t8,8263 5186,1B Tanglin Hill
+p900,d14,t3,9465 9142,10 HOE CHIANG ROAD 16-02
+p901,d50,t2,8051 2373,1B Tanglin Hill
+p902,d49,t4,8952 2867,36 Newton Rd #02-01 Hotel Royal S
+p903,d29,t3,8051 6202,2 Penjuru Close
+p904,d6,t7,9338 1961,183B Thomson Road Goldhill Centre
+p905,d14,t4,8952 3889,36 Newton Rd #02-01 Hotel Royal S
+p906,d18,t7,8951 0276,159B Kitchener Road
+p907,d44,t8,9415 6012,12 New Industrial Road 06-03
+p908,d12,t1,8952 5007,Northstar@AMK 7030 Ang Mo Kio Ave 5 #09-22
+p909,d36,t3,9642 0717,2 Penjuru Close
+p910,d36,t6,9084 4382,BLK 5 TANJONG PAGAR PLAZA #01-08
+p911,d46,t5,9778 2501,Northstar@AMK 7030 Ang Mo Kio Ave 5 #09-22
+p912,d40,t8,9791 7367,333A Orchard Road #01-18 Mandarin Gallery
+p913,d31,t3,9322 4467,802 Bukit Batok West Avenue 5 01-01 Bukit
+p914,d23,t6,8051 6151,HDB-Jalan Kayu/Seletar 4 Seletar Road #01-97
+p915,d50,t6,8051 6913,1 North Bridge Road #06-31 High Street Centre
+p916,d45,t6,8051 0517,BLK 177 BUKIT BATOK WEST AVENUE 8 #01-249
+p917,d20,t8,8051 4265,802 Bukit Batok West Avenue 5 01-01 Bukit
+p918,d19,t8,8952 0877,1B Tanglin Hill
+p919,d47,t3,8051 8565,10 HOE CHIANG ROAD 16-02
+p920,d24,t2,8952 5252,BLK 5 TANJONG PAGAR PLAZA #01-08
+p921,d36,t1,8930 1038,1 North Bridge Road #06-31 High Street Centre
+p922,d41,t8,9776 8443,194 PANDAN LOOP #06-07
+p923,d33,t6,8712 4144,333A Orchard Road #01-18 Mandarin Gallery
+p924,d45,t1,8051 8803,183B Thomson Road Goldhill Centre
+p925,d2,t8,9100 6517,2 Penjuru Close
+p926,d45,t7,8051 7366,42A NORTH CANAL ROAD
+p927,d10,t1,8950 9252,1 North Bridge Road #06-31 High Street Centre
+p928,d2,t2,8242 7405,36 Newton Rd #02-01 Hotel Royal S
+p929,d18,t3,9228 6740,1 North Bridge Road #06-31 High Street Centre
+p930,d43,t8,8951 3616,333A Orchard Road #01-18 Mandarin Gallery
+p931,d19,t4,9187 9184,159B Kitchener Road
+p932,d25,t2,9489 6071,278 Bukit Batok East Avenue 3 01-353
+p933,d17,t3,8952 1083,1B Tanglin Hill
+p934,d8,t3,9471 5439,1B Tanglin Hill
+p935,d34,t7,8356 4619,802 Bukit Batok West Avenue 5 01-01 Bukit
+p936,d33,t2,8951 7039,221 Boon Lay Place #01-198 Boon Lay Shopping Centre
+p937,d16,t3,9474 2901,12 New Industrial Road 06-03
+p938,d31,t7,8950 2893,159B Kitchener Road
+p939,d14,t5,8950 0049,194 PANDAN LOOP #06-07
+p940,d36,t5,8051 8336,333A Orchard Road #01-18 Mandarin Gallery
+p941,d2,t5,8051 7630,12 New Industrial Road 06-03
+p942,d8,t8,8952 7654,183B Thomson Road Goldhill Centre
+p943,d4,t7,8951 1775,278 Bukit Batok East Avenue 3 01-353
+p944,d49,t8,8051 2266,10 HOE CHIANG ROAD 16-02
+p945,d4,t6,8261 4660,802 Bukit Batok West Avenue 5 01-01 Bukit
+p946,d13,t6,8028 7497,221 Boon Lay Place #01-198 Boon Lay Shopping Centre
+p947,d23,t1,9830 1394,802 Bukit Batok West Avenue 5 01-01 Bukit
+p948,d17,t8,8051 0878,221 Boon Lay Place #01-198 Boon Lay Shopping Centre
+p949,d2,t4,8051 2586,36 Newton Rd #02-01 Hotel Royal S
+p950,d9,t7,8951 7752,1B Tanglin Hillp
+p951,d26,t4,12345678,Somewhere

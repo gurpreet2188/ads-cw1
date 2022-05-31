@@ -1,0 +1,9 @@
+tid,treatment,physician
+t1,Bones,Orthopaedists
+t2,Eye Care,Ophthalmologist
+t3,Blood,Hematologists
+t4,Surgery,Surgeon
+t5,Skin Care,Dermatologist
+t6,Foot & Ankle,Podiatrists
+t7,Heart,Cardiologist
+t8,Cancer,Oncologist
